@@ -1,0 +1,21 @@
+{
+  "test_accuracy": 1.0,
+  "test_f1": 1.0,
+  "history": [
+    {
+      "epoch": 1,
+      "train_loss": 0.1943452469818294,
+      "val_f1": 1.0
+    },
+    {
+      "epoch": 2,
+      "train_loss": 0.0006492946702055633,
+      "val_f1": 1.0
+    },
+    {
+      "epoch": 3,
+      "train_loss": 0.0002795665592129808,
+      "val_f1": 1.0
+    }
+  ]
+}
